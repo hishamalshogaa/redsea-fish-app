@@ -1,0 +1,17 @@
+{
+  "plectropomus_areolatus": {
+    "a": 12.3,
+    "b": 3.02,
+    "units": "W(g)=a*L(cm)^b"
+  },
+  "cheilinus_undulatus": {
+    "a": 8.7,
+    "b": 3.16,
+    "units": "W(g)=a*L(cm)^b"
+  },
+  "lutjanus_bohar": {
+    "a": 10.5,
+    "b": 3.05,
+    "units": "W(g)=a*L(cm)^b"
+  }
+}
